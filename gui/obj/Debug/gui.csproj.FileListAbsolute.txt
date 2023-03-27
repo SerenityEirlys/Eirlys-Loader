@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\gui.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\LeagueLoader.GUI.resources
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\LeagueLoader.Properties.Resources.resources
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\gui.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\gui.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\gui.csproj.CopyComplete
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\bin\Eirlys Loader.exe.config
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\bin\Eirlys Loader.exe
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\bin\Eirlys Loader.pdb
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\Eirlys Loader.exe
+C:\Users\Admin\Downloads\PenguLoader-0.6.0\PenguLoader-0.6.0\gui\obj\Debug\Eirlys Loader.pdb
